@@ -1,0 +1,12 @@
+div {
+   background-color: aquamarine;
+   height: 200px;
+   width: 200px;
+   text-align: center;
+}
+
+.boton {
+    background-color: cornflowerblue;
+    border: 2px solid blue;
+}
+
